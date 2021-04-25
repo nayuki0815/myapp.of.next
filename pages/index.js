@@ -38,6 +38,17 @@ export default function Home() {
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
+          <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>ギャラリー１ &rarr;</h3>
+            <p>Kintone　カスタマイズ</p>
+          </a>
+
+          <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>ギャラリー２ &rarr;</h3>
+            <p>Kintone　カスタマイズ</p>
+          </a>
+
+
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
