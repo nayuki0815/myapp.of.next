@@ -20,6 +20,28 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
+        <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>ギャラリー１ &rarr;</h3>
+            <p>Kintone　カスタマイズ</p>
+          </a>
+
+          <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>ギャラリー２ &rarr;</h3>
+            <p>GAS　カスタマイズ</p>
+          </a>
+
+          <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>ギャラリー２ &rarr;</h3>
+            <p>REACT　カスタマイズ</p>
+          </a>
+
+          <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>ギャラリー２ &rarr;</h3>
+            <p>NUXT.JS　カスタマイズ</p>
+          </a>
+
+
+
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
@@ -36,16 +58,6 @@ export default function Home() {
           >
             <h3>Examples &rarr;</h3>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>ギャラリー１ &rarr;</h3>
-            <p>Kintone　カスタマイズ</p>
-          </a>
-
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>ギャラリー２ &rarr;</h3>
-            <p>Kintone　カスタマイズ</p>
           </a>
 
 
