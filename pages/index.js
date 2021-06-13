@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-        　なゆきの検証環境<a href="https://nextjs.org">Next.js!</a>
+        　programmeTact company<a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
